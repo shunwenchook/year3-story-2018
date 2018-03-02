@@ -10,3 +10,6 @@ Chapters
 [Chapter 3](chapter3.html)
 
 V0.1 - Created chapter1.html
+V0.2 - Added chapter links
+V0.3 - Added first paragraph
+
