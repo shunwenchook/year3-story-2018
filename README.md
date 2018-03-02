@@ -5,11 +5,11 @@ Git Story
 
 Chapters
 
-[Chapter 1](chapter1.html)
-[Chapter 2](chapter2.html)
-[Chapter 3](chapter3.html)
+[Chapter 1](chapter1.html) <br>
+[Chapter 2](chapter2.html) <br>
+[Chapter 3](chapter3.html) <br>
 
-V0.1 - Created chapter1.html
-V0.2 - Added chapter links
+V0.1 - Created chapter1.html <br>
+V0.2 - Added chapter links <br>
 V0.3 - Added first paragraph
 
