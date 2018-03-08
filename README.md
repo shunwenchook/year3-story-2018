@@ -1,4 +1,4 @@
-# year3-story-2018
+# Year 3 - Git Story
 Shun Wen Chook
 B00092236
 Git Story
@@ -15,4 +15,6 @@ V0.1 - Created chapter1.html <br>
 V0.2 - Added chapter links <br>
 V0.3 - Added first paragraph <br>
 V0.4 - Added .gitignore and fixed some spellings <br>
-V1.0 - Released Chapter 1 
+V1.0 - Released Chapter 1 <br>
+V1.1 - Created chapter2.html and added more paragraphs to chapter 1 <br>
+V1.2 - Added hyper links for chapter 1 and chapter 2 and added paragraphs <br>
