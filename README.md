@@ -18,3 +18,4 @@ V0.4 - Added .gitignore and fixed some spellings <br>
 V1.0 - Released Chapter 1 <br>
 V1.1 - Created chapter2.html and added more paragraphs to chapter 1 <br>
 V1.2 - Added hyper links for chapter 1 and chapter 2 and added paragraphs <br>
+V1.3 - Added border around paragraphs
