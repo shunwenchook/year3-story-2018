@@ -24,3 +24,4 @@ V2.0 - Released Version 2.0 <br>
 V2.1 - Added chapter3.html <br>
 V2.2 - Fixed some links <br>
 V3.0 - Published Version 3.0 <br>
+V3.1 - Modified Chapter3.html for alternate ending <br>
